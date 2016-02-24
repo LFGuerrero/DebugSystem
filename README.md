@@ -42,7 +42,15 @@ application and the target device.
 # Questions and/or Contribuation
 
 I'll be more than happy to answer any kind of questions about the project, just send me an email. (felipe.russi.guerrero@gmail.com)<br>
-In case you like to help me to continue develop and improve the asset, let's talk!
+In case you like to help me to continue develop and improve the asset, here is a small list of things I want to do.<br>
+
+<ul><strong>ToDo:</strong>
+  <li>Display more information about the app and system.</li>
+  <li>Improve the UI.</li>
+  <li>Custom Unity inspector.</li>
+  <li>Option to send all the information via email. I already have the email functions, just need to implement.</li>
+  <li>Dynamic <i>Canvas</i> size and position.</li>
+</ul>
 
 # License
 
